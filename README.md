@@ -7,6 +7,8 @@
   
 - 💞️ I’m looking to collaborate with professional web developers
 
+- 📫 How to reach me suhlainghlainghtetdev@gmail.com
+
 ## Technologies & Tools
 - **Languages:** Python 🐍, JavaScript 💻
 - **Frameworks:** React ⚛️, Next.js 🌐, Node.js 🌐, Django 🐍
