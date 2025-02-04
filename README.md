@@ -1,7 +1,7 @@
-# <div align="center"> Hello Everyone, I’m Su Hlaing Hlaing Htet👋 </div>
+# <div align="center"> Hello Everyone, I’m Su Hlaing👋 </div>
 - 🔭 I’m currently working as a Backend Developer with Python programming language
   
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning new technologies.
   
 - 🤝 I enjoy learning new technologies and solving problems
   
