@@ -1,59 +1,57 @@
 <div align="center">
-👋 Hello, I’m Su Hlaing
-
-Backend Developer | Python Enthusiast
-
+  <h1>👋 Hello, I’m Su Hlaing</h1>
+  <h3>Backend Developer | Python Enthusiast</h3>
 </div>
-                                      👨‍💻 About Me
 
-🔭 Currently working as a Backend Developer, specializing in Python
+<hr/>
 
-🌱 Continuously learning and exploring modern technologies
+<h2>👨‍💻 About Me</h2>
+<ul>
+  <li>🔭 Currently working as a <strong>Backend Developer</strong> specializing in <strong>Python</strong></li>
+  <li>🌱 Continuously learning and exploring modern technologies</li>
+  <li>🤝 Passionate about problem-solving and building scalable applications</li>
+  <li>💞️ Open to collaborating with professional web developers on impactful projects</li>
+  <li>📫 Reach me at: <a href="mailto:suhlainghlainghtetdev@gmail.com">suhlaing@gmail.com</a></li>
+</ul>
 
-🤝 Passionate about problem-solving and building scalable applications
+<h2>🛠️ Technologies &amp; Tools</h2>
 
-💞️ Open to collaborating with professional web developers on impactful projects
+<h3>Languages</h3>
+<ul>
+  <li>Python 🐍</li>
+  <li>JavaScript 💻</li>
+</ul>
 
-📫 Reach me at: suhlainghlainghtetdev@gmail.com
+<h3>Frameworks &amp; Libraries</h3>
+<ul>
+  <li>Django 🐍</li>
+  <li>React ⚛️</li>
+  <li>Next.js 🌐</li>
+  <li>Node.js 🌐</li>
+</ul>
 
-🛠️ Technologies & Tools
+<h3>Tools &amp; Platforms</h3>
+<ul>
+  <li>Git 🦊</li>
+  <li>Docker 🐳</li>
+</ul>
 
-Languages
+<h2>🧠 Technical Concepts</h2>
+<ul>
+  <li>🗃️ Database Design &amp; Management</li>
+  <li>🔌 RESTful API Development</li>
+  <li>🚀 Application Deployment &amp; Maintenance</li>
+</ul>
 
-Python 🐍
+<h2>📌 What I’m Looking For</h2>
+<ul>
+  <li>Opportunities to contribute to real-world projects</li>
+  <li>Collaboration with experienced developers</li>
+  <li>Continuous growth as a backend and full-stack developer</li>
+</ul>
 
-JavaScript 💻
+<hr/>
 
-Frameworks & Libraries
-
-Django 🐍
-
-React ⚛️
-
-Next.js 🌐
-
-Node.js 🌐
-
-Tools & Platforms
-
-Git 🦊
-
-Docker 🐳
-
-🧠 Technical Concepts
-
-🗃️ Database Design & Management
-
-🔌 RESTful API Development
-
-🚀 Application Deployment & Maintenance
-
-📌 What I’m Looking For
-
-Opportunities to contribute to real-world projects
-
-Collaboration with experienced developers
-
-Continuous growth as a backend and full-stack developer
-
-⭐ Feel free to explore my repositories and connect with me. I’m always open to learning and collaboration!
+<p align="center">
+  ⭐ Feel free to explore my repositories and connect with me. I’m always open to learning and collaboration!
+</p>
