@@ -1,25 +1,59 @@
-# <div align="center"> Hello Everyone, I’m Su Hlaing👋 </div>
-- 🔭 I’m currently working as a Backend Developer with Python programming language
-  
-- 🌱 I’m currently learning new technologies.
-  
-- 🤝 I enjoy learning new technologies and solving problems
-  
-- 💞️ I’m looking to collaborate with professional web developers
+<div align="center">
+👋 Hello, I’m Su Hlaing
 
-- 📫 How to reach me suhlainghlainghtetdev@gmail.com
+Backend Developer | Python Enthusiast
 
-## Technologies & Tools
-- **Languages:** Python 🐍, JavaScript 💻
-- **Frameworks:** React ⚛️, Next.js 🌐, Node.js 🌐, Django 🐍
-- **Tools:** Git 🦊, Docker 🐳
+</div>
+👨‍💻 About Me
 
-## Concepts
+🔭 Currently working as a Backend Developer, specializing in Python
 
-- **Database:** 🗃️
-- **API:** 🔌
-- **Deployment:** 🚀
-<!---
-suhlaing200341/suhlaing200341 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🌱 Continuously learning and exploring modern technologies
+
+🤝 Passionate about problem-solving and building scalable applications
+
+💞️ Open to collaborating with professional web developers on impactful projects
+
+📫 Reach me at: suhlaing@gmail.com
+
+🛠️ Technologies & Tools
+
+Languages
+
+Python 🐍
+
+JavaScript 💻
+
+Frameworks & Libraries
+
+Django 🐍
+
+React ⚛️
+
+Next.js 🌐
+
+Node.js 🌐
+
+Tools & Platforms
+
+Git 🦊
+
+Docker 🐳
+
+🧠 Technical Concepts
+
+🗃️ Database Design & Management
+
+🔌 RESTful API Development
+
+🚀 Application Deployment & Maintenance
+
+📌 What I’m Looking For
+
+Opportunities to contribute to real-world projects
+
+Collaboration with experienced developers
+
+Continuous growth as a backend and full-stack developer
+
+⭐ Feel free to explore my repositories and connect with me. I’m always open to learning and collaboration!
