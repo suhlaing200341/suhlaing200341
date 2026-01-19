@@ -4,7 +4,7 @@
 Backend Developer | Python Enthusiast
 
 </div>
-👨‍💻 About Me
+                                      👨‍💻 About Me
 
 🔭 Currently working as a Backend Developer, specializing in Python
 
@@ -14,7 +14,7 @@ Backend Developer | Python Enthusiast
 
 💞️ Open to collaborating with professional web developers on impactful projects
 
-📫 Reach me at: suhlaing@gmail.com
+📫 Reach me at: suhlainghlainghtetdev@gmail.com
 
 🛠️ Technologies & Tools
 
