@@ -11,7 +11,7 @@
   <li>🌱 Continuously learning and exploring modern technologies</li>
   <li>🤝 Passionate about problem-solving and building scalable applications</li>
   <li>💞️ Open to collaborating with professional web developers on impactful projects</li>
-  <li>📫 Reach me at: <a href="mailto:suhlainghlainghtetdev@gmail.com">suhlaing@gmail.com</a></li>
+  <li>📫 Reach me at: <a href="mailto:suhlainghlainghtetdev@gmail.com">suhlainghlainghtetdev@gmail.com</a></li>
 </ul>
 
 <h2>🛠️ Technologies &amp; Tools</h2>
